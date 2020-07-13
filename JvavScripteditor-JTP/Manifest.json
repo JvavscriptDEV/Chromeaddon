@@ -1,0 +1,10 @@
+{
+  "name": "JvavScript",
+  "manifest_version":2,
+  "version": "65536.65536.2147483647",
+  "description": "JvavScript-a javascript add-on",
+  "browser_action":
+  {
+      "default_popup": "popup.html"
+  }
+}
